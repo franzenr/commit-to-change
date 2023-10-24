@@ -1,5 +1,7 @@
 # commit-to-change
- "Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects", given at Posit::conf(2023) on 20 September 2023
+ "Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects", initially given at Posit::conf(2023) on 20 September 2023. 
+
+Presented again at the Children's Hospital of Philadelphia in celebration of National Disability Employment Awareness Month on 24 October 2023
 
 ![The design of a hexagon shaped sticker with a dark purple background, a purple to pink gradient border, and pale yellow text that says "commit to change". The word "commit" is stylized to bring to mind the concept of running a "git commit" command on a command line interface.](hex-sticker.png)
 
