@@ -1,5 +1,7 @@
 # commit-to-change
  "Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects", initially given at Posit::conf(2023) on 20 September 2023. 
+ 
+ [Watch presentation on YouTube](https://www.youtube.com/watch?v=0qfzxHHCDfE&t=1008s)
 
 Presented again at the Children's Hospital of Philadelphia in celebration of National Disability Employment Awareness Month on 24 October 2023
 
