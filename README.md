@@ -44,4 +44,4 @@ In order to get one of these lovely hex stickers, you need to `commit to change`
 * [GitHub's ReadME Project](https://github.com/readme/topics/accessibility) has many articles related to accessibility 
 * Read about [an open source contribution that made technical documentation more accessible to blind developers](https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1) 
 * High-level [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) by the Web Accessibility Initiative
-
+* [Mega list of collated resources](https://www.a11yproject.com/resources/) from the A11y Project
